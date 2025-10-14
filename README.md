@@ -16,18 +16,6 @@
 
 ---
 
-### 📊 GitHub Статистика
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=artifinte&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=artifinte&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
-
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artifinte&layout=compact&theme=tokyonight&hide_border=true" height="120" alt="Top Languages" />
-
-</div>
-
 ### 📫 Контакты
 
 <p align="center">
