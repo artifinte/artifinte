@@ -30,14 +30,10 @@
 
 ### 📫 Контакты
 
-<p align="left">
+<p align="center">
 <a href="https://t.me/artifinte"><img src="https://img.shields.io/badge/Telegram-%40artifinte-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="mailto:tiartifinte@gmail.com"><img src="https://img.shields.io/badge/Email-tiartifinte%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-> 💬 *“AI — это не магия. Это продуманные алгоритмы, помогающие людям быть эффективнее.”*
 
 ---
 
